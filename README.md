@@ -6,10 +6,13 @@ Therefore, learning various things to be a multi-creator ◝(⁰▿⁰)◜
 
 
 ## **My values**
-- Adventure with creativity
-- Safety and trust
+🌈 Adventure with creativity
+
+💗 Safety and trust
+
 ✍️ Open mindset and curiosity
-- Always considerate
+
+👨‍👧‍👧 Always considerate
 
 ## **Tech stacks**
 ![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
