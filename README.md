@@ -6,10 +6,10 @@ Therefore, learning various things to be a multi-creator ◝(⁰▿⁰)◜
 
 
 ## **My values**
-- Learning to be a multi-creator
-- dd
-- dd
-- Making a game as a hobby
+- Adventure with creativity
+- Safety and trust
+✍️ Open mindset and curiosity
+- Always considerate
 
 ## **Tech stacks**
 ![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
