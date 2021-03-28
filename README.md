@@ -1,12 +1,15 @@
-## **Ji-hun Jeonㅡ@n0hack**
+# **Ji-hun Jeonㅡ@n0hack**
 
 I'm developing to make services that will light-up the world.
+
+
+## **My values**
 - Learning to be a multi-creator
 - dd
 - dd
 - Making a game as a hobby
 
-### **Tech Stack**
+## **Tech stacks**
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-0088cc?style=flat-square&logo=react&logoColor=white)
 ![Electron Badge](https://img.shields.io/badge/-Electron-47848f?style=flat-square&logo=electron&logoColor=white)
