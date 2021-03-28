@@ -20,4 +20,4 @@ I'm developing to make services that will light-up the world.
 
 ## **Get in touch**
 - Personal site: http://nohack.io
-- Instagram: https://www.instagram.com/__nohack__/
+- Instagram: https://instagram.com/__nohack__
