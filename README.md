@@ -19,6 +19,5 @@ I'm developing to make services that will light-up the world.
 ![Redis Badge](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
 
 ## **Get in touch**
----
 - Personal site: http://nohack.io
 - Instagram: https://www.instagram.com/\_\_nohack\_\_/
