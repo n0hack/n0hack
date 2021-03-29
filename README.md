@@ -1,6 +1,8 @@
 # **Ji-hun Jeonㅡ@n0hack**
 
-Hi there. I'm developing to make services that will light-up the world. therefore, I learning various things to be a multi-creator ◝(⁰▿⁰)◜
+Hi there. I'm developing to make services that will light-up the world.
+
+Therefore, learning various things to be a multi-creator ◝(⁰▿⁰)◜
 
 
 ## **My values**
