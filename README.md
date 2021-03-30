@@ -15,7 +15,6 @@ Therefore, learning various things to be a multi-creator ◝(⁰▿⁰)◜
 👨‍👧‍👧 Always considerate
 
 ## **Tech stacks**
-![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=black)
 ![Typescript Badge](https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white)
 ![Sass Badge](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=Sass&logoColor=white)
