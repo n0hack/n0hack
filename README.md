@@ -16,18 +16,21 @@ Therefore, learning various things to be a multi-creator ◝(⁰▿⁰)◜
 
 ## **Tech stacks**
 
-![Javascript Badge](https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=black)
-![Typescript Badge](https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white)
-![Sass Badge](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=Sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-0088CC?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js Badge](https://img.shields.io/badge/-React-0088cc?style=flat-square&logo=next&logoColor=white)
-![Electron Badge](https://img.shields.io/badge/-Electron-47848f?style=flat-square&logo=electron&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white)
 
-![MySQL Badge](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=MongoDB&logoColor=white)
-![Redis Badge](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-dc382d?style=for-the-badge&logo=redis&logoColor=white)
 
 <!-- ![React Badge](https://img.shields.io/badge/-React-0088cc?style=flat-square&logo=react&logoColor=white) -->
 
