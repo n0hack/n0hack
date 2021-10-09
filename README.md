@@ -36,5 +36,5 @@ Therefore, learning various things to be a multi-creator ◝(⁰▿⁰)◜
 
 ## **Get in touch**
 
-- Personal blog: https://nohack.tistory.com
+- Blog: https://nohack.tistory.com
 - Instagram: https://instagram.com/__nohack__/
