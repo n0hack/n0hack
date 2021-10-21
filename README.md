@@ -1,4 +1,17 @@
-# **Ji-hun Jeonㅡ@nohack**
+# Light-up the world ⭐️
+
+## 🤗 About me
+
+- 안녕하세요! 프론트엔드 개발자를 꿈꾸는 전지훈입니다.
+- v
+
+Contact
+
+- Email: lbjp114@gmail.com
+- GitHub:
+- Blog:
+
+## 🔨 Skills
 
 Hi there. I'm developing to make services that will light-up the world.
 
