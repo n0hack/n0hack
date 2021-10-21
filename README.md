@@ -1,15 +1,15 @@
 # Light-up the world ⭐️
 
-## 🤗 About me
+### 🤗 About me
 
 - 안녕하세요! 프론트엔드 개발자를 꿈꾸는 전지훈입니다.
 - v
 
-Contact
+**Contact & Channel**
 
 - Email: lbjp114@gmail.com
-- GitHub:
-- Blog:
+- GitHub: https://github.com/n0hack
+- Blog: https://nohack.tistory.com
 
 ## 🔨 Skills
 
