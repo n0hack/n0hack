@@ -19,6 +19,8 @@
 </div>
 <div>
 
+<br>
+
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,11 +35,9 @@
 ### Backend
 
 ![NodeJS](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Collaboration
-
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Sequalize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 <br>
 
