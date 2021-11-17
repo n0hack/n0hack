@@ -5,6 +5,11 @@
 - 호기심을 갖고, 늘 열린 마음으로 배우고자 합니다.
 - 게임, 음악, 커피, 그리고 함께 즐기는 문화를 좋아합니다.
 
+**Contact**
+
+- Email: lbjp114@gmail.com
+- Blog: https://nohack.tistory.com
+
 <br>
 
 ## Experienced
@@ -33,3 +38,7 @@
 ### Collaboration
 
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0hack&layout=compact)](https://github.com/n0hack/github-readme-stats)
