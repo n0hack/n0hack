@@ -1,31 +1,10 @@
-<body>
-<br>
-
 ## About Me
 
-<div>
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-<li>
-<b>Name:</b> Lilly</li>
-<li>
-<b>Fursona:</b> Female Snow Fox > ~ <
-</li>
-<li>
-<b>Loves:</b> you! and donuts and games maybe -///-
-</li>
-<li>
-<b>Gender:</b> she/her/Female
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat | snens.team
-</li>
-<br>
-<p><b>     Thanks fow weading this onyee-san<br>
-                  verwy cuwute of chu</b></p>
-</div>
+- 안녕하세요! 멀티 크리에이터를 꿈꾸는 전지훈(NoHack)입니다.
+- 행위에 집착하지 않고, 즐기는 마음으로 매일 1일 1커밋을 하고 있습니다.
+- 호기심을 갖고, 늘 열린 마음으로 배우고자 합니다.
+- 게임, 음악, 커피, 그리고 함께 즐기는 문화를 좋아합니다.
+
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
@@ -54,4 +33,3 @@ most used s-s-sociaw things >~< xoxox</p>
 <hr>
 </div>
 </div>
-</body>
