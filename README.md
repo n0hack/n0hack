@@ -1,12 +1,28 @@
-<style>
-  .test {
-    color: red;
-  }
+<style scoped>
+/* 0 to 299 */
+.on-the-fly-behavior {
+    background-image: url('particular_ad_small.png'); 
+}
+/* 300 to X */
+@media (min-width: 300px) { /* or 301 if you want really the same as previously.  */
+    .on-the-fly-behavior {   
+        background-image: url('particular_ad.png');
+    }
+}
 </style>
 
 <div>
 <h1 class="test">About Me</h1>
 
+</div>
+
+<div style="overflow: hidden;">
+<div style="float: left; width: 50%;">
+ㅎㅇ
+</div>
+<div style="float: right; width: 50%;">
+dd
+</div>
 </div>
 
 ## About Me
