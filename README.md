@@ -16,7 +16,7 @@
 ## Experienced
 
 <div>
-  <img src="https://c.tenor.com/Lqmf5Hsjd9AAAAAC/star-butterfly-svtfoe.gif" width="50%" align="right">
+  <img src="https://c.tenor.com/Lqmf5Hsjd9AAAAAC/star-butterfly-svtfoe.gif" width="100%" align="right">
 </div>
 
 ![JavaScript](<https://img.shields.io/badge/js(ES6)-f7df1e?style=for-the-badge&logo=javascript&logoColor=black>)
@@ -32,5 +32,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0hack&layout=compact)](https://github.com/n0hack/github-readme-stats)
+
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=n0hack&show_icons=true&theme=buefy)
