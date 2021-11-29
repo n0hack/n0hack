@@ -9,12 +9,10 @@
 
 [My Page]() | [Blog](https://nohack.tistory.com) | [Resume]()
 
-<br>
-
 ## Experienced
 
 <div>
-  <img src="https://c.tenor.com/FP0pyJi9ZL0AAAAC/star-vs-the-forces-of-evil-butterfly.gif" style="display: block; object-fit: cover; height: 370px; margin-top: 0.625rem;" align="right">
+  <img src="https://c.tenor.com/FP0pyJi9ZL0AAAAC/star-vs-the-forces-of-evil-butterfly.gif" style="width: 360px; float: right;">
 </div>
 
 ### Frontend
