@@ -16,7 +16,7 @@
 ## Experienced
 
 <div>
-  <img src="https://c.tenor.com/Lqmf5Hsjd9AAAAAC/star-butterfly-svtfoe.gif" width="100%" align="right">
+  <img src="https://c.tenor.com/Lqmf5Hsjd9AAAAAC/star-butterfly-svtfoe.gif" width="50%" align="right">
 </div>
 
 ![JavaScript](<https://img.shields.io/badge/js(ES6)-f7df1e?style=for-the-badge&logo=javascript&logoColor=black>)
