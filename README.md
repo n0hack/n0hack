@@ -1,30 +1,3 @@
-<style scoped>
-/* 0 to 299 */
-.on-the-fly-behavior {
-    background-image: url('particular_ad_small.png'); 
-}
-/* 300 to X */
-@media (min-width: 300px) { /* or 301 if you want really the same as previously.  */
-    .on-the-fly-behavior {   
-        background-image: url('particular_ad.png');
-    }
-}
-</style>
-
-<div>
-<h1 class="test">About Me</h1>
-
-</div>
-
-<div style="overflow: hidden;">
-<div style="float: left; width: 50%;">
-ㅎㅇ
-</div>
-<div style="float: right; width: 50%;">
-dd
-</div>
-</div>
-
 ## About Me
 
 - 안녕하세요! 멀티 크리에이터를 꿈꾸는 전지훈(NoHack)입니다.
@@ -39,7 +12,7 @@ dd
 ## Experienced
 
 <div>
-  <img src="https://c.tenor.com/Lqmf5Hsjd9AAAAAC/star-butterfly-svtfoe.gif" width="50%" align="right">
+  <img src="https://c.tenor.com/Lqmf5Hsjd9AAAAAC/star-butterfly-svtfoe.gif" align="right">
 </div>
 
 ### Frontend
@@ -67,3 +40,5 @@ dd
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0hack&layout=compact)](https://github.com/n0hack/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=n0hack&show_icons=true&theme=buefy)
