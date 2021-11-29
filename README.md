@@ -12,7 +12,7 @@
 ## Experienced
 
 <div>
-  <img src="https://c.tenor.com/Lqmf5Hsjd9AAAAAC/star-butterfly-svtfoe.gif" align="right">
+  <img src="https://c.tenor.com/Lqmf5Hsjd9AAAAAC/star-butterfly-svtfoe.gif" width="40%" align="right">
 </div>
 
 ### Frontend
