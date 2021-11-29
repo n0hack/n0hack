@@ -12,7 +12,7 @@
 ## Experienced
 
 <div>
-  <img src="https://c.tenor.com/FP0pyJi9ZL0AAAAC/star-vs-the-forces-of-evil-butterfly.gif" width="50%" align="right">
+  <img src="https://c.tenor.com/Lqmf5Hsjd9AAAAAC/star-butterfly-svtfoe.gif" width="50%" align="right">
 </div>
 
 ### Frontend
