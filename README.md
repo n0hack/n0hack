@@ -11,10 +11,12 @@
 
 [My Page]() | [Blog](https://nohack.tistory.com) | [Resume]()
 
+<br>
+
 ## Experienced
 
 <div>
-  <img src="https://c.tenor.com/Lqmf5Hsjd9AAAAAC/star-butterfly-svtfoe.gif" width="40%" align="right">
+  <img src="https://c.tenor.com/Lqmf5Hsjd9AAAAAC/star-butterfly-svtfoe.gif" width="50%" align="right">
 </div>
 
 ### Frontend
@@ -28,16 +30,6 @@
 ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Next](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 <br>
 
