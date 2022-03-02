@@ -15,7 +15,7 @@
 
 ## Experienced
 
-<div>
+<div> 
   <img src="https://c.tenor.com/Lqmf5Hsjd9AAAAAC/star-butterfly-svtfoe.gif" width="50%" align="right">
 </div>
 
