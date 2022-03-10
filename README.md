@@ -9,7 +9,7 @@
 
 **For More Info.. 👏**
 
-[My Page]() | [Blog](https://nohack.tistory.com) | [Resume]()
+[My Page]() | [Blog](https://nohack.tistory.com) | [Resume](https://notion.so)
 
 <br>
 
