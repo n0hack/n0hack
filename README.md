@@ -8,8 +8,8 @@
 - 보고 듣고 경험한 것을 글에 녹이는 것을 좋아합니다.
 
 **For More Info.. 👏**
-
-[My Page]() | [Blog](https://nohack.tistory.com) | [Resume](https://notion.so)
+<!-- Todo: 이력서 링크 추가 -->
+[My Page]() | [Blog](https://nohack.tistory.com) |  [Resume](https://notion.so)
 
 <br>
 
