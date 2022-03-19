@@ -9,7 +9,6 @@
 
 **For More Info.. 👏**
 <!-- Todo: 이력서 링크 추가 -->
-<!-- Todo: 친구랑 프로젝트 -->
 [My Page]() | [Blog](https://nohack.tistory.com) |  [Resume](https://notion.so)
 
 <br>
