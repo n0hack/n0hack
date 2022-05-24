@@ -1,15 +1,20 @@
-<div>
+![](./img/AboutMe-elaina.png)
 
-## About Me 
+- 멀티 크리에이터를 꿈꾸는
+-
 
-- 안녕하세요! 프론트엔드 개발자를 꿈꾸는 전지훈(NoHack)입니다. 
-- 늘 호기심을 갖고, 열린 마음으로 배우고자 합니다.   
+## About Me
+
+- 안녕하세요! 프론트엔드 개발자를 꿈꾸는 전지훈(NoHack)입니다.
+- 늘 호기심을 갖고, 열린 마음으로 배우고자 합니다.
 - 게임, 음악, 커피, 그리고 함께 즐기는 문화를 좋아합니다.
 - 보고 듣고 경험한 것을 글에 녹이는 것을 좋아합니다.
 
 **For More Info.. 👏**
+
 <!-- Todo: 이력서 링크 추가 -->
-[My Page]() | [Blog](https://nohack.tistory.com) |  [Resume](https://notion.so)
+
+[My Page]() | [Blog](https://nohack.tistory.com) | [Resume](https://notion.so)
 
 <br>
 
@@ -35,4 +40,4 @@
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=n0hack&show_icons=true&theme=buefy) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=n0hack&show_icons=true&theme=buefy)
