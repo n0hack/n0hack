@@ -1,11 +1,17 @@
 ![AboutMe](./img/NoHack_AboutMe.png)
 
-- 멀티 크리에이터를 꿈꾸는
--
+- 안녕하세요! 멀티 크리에이터를 꿈꾸는 전지훈입니다.
+- 정보보안, 데이터 분석으로 시작하여, 현재는 개발의 매력에 푹 빠져 있습니다.
+- **즐기는 것이 성장의 전부**라 생각하고, 꾸준히 즐기며 개발자 생태계에 선한 영향을 주려 합니다.
+- 새로운 기술에 관심이 많은 Tech Otaku이며, 더 나은 개발자 경험(DX)을 고민하는 중입니다.
+
+**For More Info.. 👏**
+
+[My Page]() | [Blog](https://nohack.tistory.com) | [Resume](https://notion.so)
 
 ![Skills](./img/NoHack_Skills.png)
 
-![Banner](./img/NoHack_Banner.png)
+![Banner](./img/banner.gif)
 
 ## About Me
 
@@ -13,12 +19,6 @@
 - 늘 호기심을 갖고, 열린 마음으로 배우고자 합니다.
 - 게임, 음악, 커피, 그리고 함께 즐기는 문화를 좋아합니다.
 - 보고 듣고 경험한 것을 글에 녹이는 것을 좋아합니다.
-
-**For More Info.. 👏**
-
-<!-- Todo: 이력서 링크 추가 -->
-
-[My Page]() | [Blog](https://nohack.tistory.com) | [Resume](https://notion.so)
 
 <br>
 
