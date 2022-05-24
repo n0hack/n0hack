@@ -9,6 +9,8 @@
 
 [My Page]() | [Blog](https://nohack.tistory.com) | [Resume](https://notion.so)
 
+<br>
+
 ![Skills](./img/NoHack_Skills.png)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,7 +18,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Styled Component](https://img.shields.io/badge/css_in_js-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 
-![JavaScript](<https://img.shields.io/badge/js(ES6.next)-f7df1e?style=for-the-badge&logo=javascript&logoColor=black>)
+![JavaScript](<https://img.shields.io/badge/js(ES6)-f7df1e?style=for-the-badge&logo=javascript&logoColor=black>)
 ![TypeScript](https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React](https://img.shields.io/badge/react-0088CC?style=for-the-badge&logo=react&logoColor=white)
