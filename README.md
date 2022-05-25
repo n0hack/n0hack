@@ -34,8 +34,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=n0hack&show_icons=true&theme=buefy)
 
 ![Banner](./img/banner.png)
-
-<p align="center">
-이해할 수 없는 이상한 사람과 누군가의 아름다운 일상을 접하며,
-<br>오늘도 또 만남과 이별의 이야기를 만들어갑니다.
-</p>
