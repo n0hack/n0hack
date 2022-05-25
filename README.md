@@ -1,4 +1,4 @@
-![AboutMe](./img/NoHack_AboutMe_e.png)
+![AboutMe](./img/about.png)
 
 - 안녕하세요! 다양한 상상을 현실로 만드는 멀티 크리에이터를 꿈꾸는 전지훈입니다.
 - 정보보안, 데이터 분석으로 시작하여, 현재는 개발의 매력에 푹 빠져 있습니다.
@@ -11,7 +11,7 @@
 
 <br>
 
-![Skills](./img/NoHack_Skills.png)
+![Skills](./img/skills.png)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,3 +32,10 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0hack&layout=compact)](https://github.com/n0hack/github-readme-stats) -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=n0hack&show_icons=true&theme=buefy)
+
+![Banner](./img/banner.png)
+
+<p align="center">
+이해할 수 없는 이상한 사람과 누군가의 아름다운 일상을 접하며,
+<br>오늘도 또 만남과 이별의 이야기를 만들어갑니다.
+</p>
