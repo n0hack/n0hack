@@ -35,4 +35,4 @@
 
 <!-- ![Banner](./img/banner.png) -->
 
-![Banner](./img/b1.gif)
+![Banner](./img/b2.gif)
