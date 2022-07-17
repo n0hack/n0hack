@@ -15,7 +15,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Styled Component](https://img.shields.io/badge/css_in_js-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-ffffff.svg?style=for-the-badge&logo=unity&logoColor=black)
 
 ![JavaScript](<https://img.shields.io/badge/js(ES6)-f7df1e?style=for-the-badge&logo=javascript&logoColor=black>)
 ![TypeScript](https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
