@@ -22,6 +22,7 @@
 ![React](https://img.shields.io/badge/react-0088CC?style=for-the-badge&logo=react&logoColor=white)
 ![Next](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white)
 
 ![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
