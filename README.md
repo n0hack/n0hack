@@ -7,7 +7,7 @@
 
 **For More Info.. 👏**
 
-[My Page](https://lucid-dream.net) | [Tistory](https://nohack.tistory.com) | [Figma Resume](https://notion.so)
+[My Page](https://lucid-dream.net) | [Tistory](https://nohack.tistory.com) | [Resume](https://notion.so)
 
 ## Experienced
 
