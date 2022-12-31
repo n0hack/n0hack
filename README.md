@@ -1,4 +1,6 @@
-![2.5D 지원 GO!](./images/recruit.png)
+<a href="">
+  <img src="./images/recruit.png" alt="2.5D 지원 GO!" />
+</a>
 
 ## About Me
 
