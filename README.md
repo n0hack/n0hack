@@ -24,8 +24,8 @@
 ![React](https://img.shields.io/badge/react-0088CC?style=for-the-badge&logo=react&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 ![Next](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-02569B?style=for-the-badge&logo=react&logoColor=white)
 ![Electron](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white)
 
 ![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
