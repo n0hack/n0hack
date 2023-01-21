@@ -2,7 +2,7 @@
   <img src="./images/recruit.png" alt="2.5D 지원 GO!" /> 
 </a> 
  
-## About Me 
+## About Me
 
 - 안녕하세요! 다양한 상상을 현실로 만드는 멀티 크리에이터를 꿈꾸는 밍입니다.
 - 정보보안, 데이터 분석으로 시작하여, 현재는 개발의 매력에 푹 빠져 있습니다.
@@ -29,7 +29,7 @@
 ![Electron](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white)
-
+ 
 ![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/gql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgre-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
