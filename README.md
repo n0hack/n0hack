@@ -1,5 +1,5 @@
 <a href="https://2dot5d.com/recruit" target="_blank">
-  <img src="./images/recruit.png" alt="2.5D 지원 GO!" /> 
+  <img src="./images/recruit.png" alt="2.5D 지원 GO!" />
 </a>
  
 ## About Me 
