@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42988225/217258534-07d57704-5766-4821-b8be-e9f9b6eed73b.png">
+</p>
+
 ## About Me
 
 - 안녕하세요! 다양한 상상을 현실로 만드는 멀티 크리에이터를 꿈꾸는 루시드입니다.
