@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./images/recruit.png">
-</p> 
+</p>
 
 ## About Me
 
