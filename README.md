@@ -30,7 +30,7 @@
 ![Electron](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white)
 
-![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/gql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgre-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
