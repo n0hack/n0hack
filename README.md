@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/recruit.png">
+  <img src="./images/recruit.png"> 
 </p> 
 
 ## About Me  
