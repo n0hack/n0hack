@@ -9,6 +9,9 @@
 - **즐기는 것이 성장의 전부**라 생각하고, 꾸준히 즐기며 개발자 생태계에 선한 영향을 주려 합니다.
 - 새로운 기술에 관심이 많은 Tech Otaku이며, 더 나은 개발자 경험(DX)을 고민하는 중입니다.
 
+- 롤 마스터 티어
+- 
+
 **For More Info (★≧▽^))★☆**
 
 [My Page](https://lucid-dream.net) | [Tistory](https://nohack.tistory.com) | [Resume](https://www.figma.com/file/0ra7VO13FAOzlrD8U9esTX/Resume?node-id=0%3A1&t=F7RvY5TD5d04CQ6I-1)
