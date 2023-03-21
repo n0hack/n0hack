@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center">
   <img src="./images/recruit.png"> 
 </p> 
 
