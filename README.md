@@ -11,7 +11,7 @@
 - 롤 마스터 티어
 - 
 
-**For More Info (★≧▽^))★☆**
+**For More Info (★≧▽^))★☆** 
 
 [My Page](https://lucid-dream.net) | [Tistory](https://nohack.tistory.com) | [Resume](https://www.figma.com/file/0ra7VO13FAOzlrD8U9esTX/Resume?node-id=0%3A1&t=F7RvY5TD5d04CQ6I-1)
 
