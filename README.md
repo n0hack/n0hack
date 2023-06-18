@@ -1,20 +1,15 @@
 ## About Me
 
-- 안녕하세요! 다양한 상상을 현실로 만드는 멀티 크리에이터를 꿈꾸는 루시드입니다.
-- 정보보안, 데이터 분석으로 시작하여, 현재는 개발의 매력에 푹 빠져 있습니다.
-- **즐기는 것이 성장의 전부**라 생각하고, 꾸준히 즐기며 개발자 생태계에 선한 영향을 주려 합니다.
-- 새로운 기술에 관심이 많은 Tech Otaku이며, 더 나은 개발자 경험(DX)을 고민하는 중입니다.
-- 롤 마스터 티어
-
-📺 Currently watching 86 Eighty Six
-🔭 I’m currently working on Intune deployment for clients
-🎮 I’m currently playing Genshin Impact or Battlefield V
-🤔 I’m looking for help with becoming a Microsoft MVP
-📫 How to reach me: 0go1fbn9c@relay.firefox.com
+- 😀 안녕하세요! 다양한 상상을 현실로 만드는 멀티 크리에이터를 꿈꾸는 루시드입니다.
+- ✨ 정보보안, 데이터 분석으로 시작하여, 현재는 개발의 매력에 푹 빠져 있습니다.
+- 🔥 **즐기는 것이 성장의 전부**라 생각하고, 꾸준히 즐기며 개발자 생태계에 선한 영향을 주려 합니다.
+- 💻 새로운 기술에 관심이 많은 Tech Otaku이며, 더 나은 개발자 경험(DX)을 고민하는 중입니다.
+- 🎮 게임에 관심이 많으며, 지금은 LoL을 주로 플레이 하고 있습니다. (마스터 티어)
+- 🍭 그 외 취미로는 바이올린과 일본 드라마 및 영화 시청이 있습니다.
 
 **For More Info (★≧▽^))★☆**
 
-[My Page](https://lucid-dream.net) | [Tistory](https://nohack.tistory.com) | [Resume](https://www.figma.com/file/0ra7VO13FAOzlrD8U9esTX/Resume?node-id=0%3A1&t=F7RvY5TD5d04CQ6I-1)
+[My Page](https://lucid-dream.net) / [Tistory](https://nohack.tistory.com) / [Resume](https://www.figma.com/file/0ra7VO13FAOzlrD8U9esTX/Resume?node-id=0%3A1&t=F7RvY5TD5d04CQ6I-1)
 
 <br />
 
