@@ -13,12 +13,6 @@
 
 <br />
 
-## Experienced
-
-[![Experienced](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,emotion,styledcomponents,react,gatsby,nextjs,electron,unity,nodejs,nestjs,graphql,postgresql,mongodb,redis,jest,sentry,figma,aws,vercel&perline=12)](https://skillicons.dev)
-
-<br />
-
 ## GitHub Stats
 
 <div>
