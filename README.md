@@ -1,4 +1,4 @@
-![Banner](./images/night%20sky.jpg)
+![Banner](./images/sky-banner.jpg)
 
 ## About Me
 
