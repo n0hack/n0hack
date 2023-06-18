@@ -1,17 +1,17 @@
 <p align="center"> 
-  <img src="./images/recruit.png"> 
+  <img src="./assets/test.jpg"> 
 </p> 
  
-## About Me  
+## About Me
 
-- 안녕하세요! 다양한 상상을 현실로 만드는 멀티 크리에이터를 꿈꾸는 루시드입니다.  
+- 안녕하세요! 다양한 상상을 현실로 만드는 멀티 크리에이터를 꿈꾸는 루시드입니다.
 - 정보보안, 데이터 분석으로 시작하여, 현재는 개발의 매력에 푹 빠져 있습니다.
 - **즐기는 것이 성장의 전부**라 생각하고, 꾸준히 즐기며 개발자 생태계에 선한 영향을 주려 합니다.
-- 새로운 기술에 관심이 많은 Tech Otaku이며, 더 나은 개발자 경험(DX)을 고민하는 중입니다. 
+- 새로운 기술에 관심이 많은 Tech Otaku이며, 더 나은 개발자 경험(DX)을 고민하는 중입니다.
 - 롤 마스터 티어
-- 
+-
 
-**For More Info (★≧▽^))★☆** 
+**For More Info (★≧▽^))★☆**
 
 [My Page](https://lucid-dream.net) | [Tistory](https://nohack.tistory.com) | [Resume](https://www.figma.com/file/0ra7VO13FAOzlrD8U9esTX/Resume?node-id=0%3A1&t=F7RvY5TD5d04CQ6I-1)
 
@@ -32,7 +32,7 @@
 ![Electron](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white)
 
-![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) 
+![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/gql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgre-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
