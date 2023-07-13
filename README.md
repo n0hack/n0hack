@@ -1,3 +1,5 @@
+![Banner](./images/banner.webp)
+
 ## About Me
 
 - 😀 안녕하세요! 다양한 상상을 현실로 만드는 멀티 크리에이터를 꿈꾸는 루시드입니다.
