@@ -40,6 +40,8 @@
 
 ## GitHub Stats
 
+[![@n0hack Astro contributions](https://astro.badg.es/v2/contributor/n0hack.svg)](https://astro.badg.es/contributor/n0hack/)
+
 <div>
 
   <img src="https://github-readme-stats.vercel.app/api?username=n0hack&show_icons=true&theme=buefy" alt="GitHub Stats">
