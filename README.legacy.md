@@ -38,7 +38,9 @@
 ![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## GitHub Stats
+## GitHub Stats 
+
+<!-- 배지 -->
 
 [![@n0hack Astro contributions](https://astro.badg.es/v2/contributor/n0hack.svg)](https://astro.badg.es/contributor/n0hack/)
 
