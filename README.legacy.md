@@ -1,3 +1,5 @@
+<!-- 더 이상 사용하지 않는 파일 : 저장용 -->
+
 ![Banner](./images/banner.webp)
 
 ## About Me 
